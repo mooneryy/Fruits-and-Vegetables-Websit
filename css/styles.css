@@ -130,7 +130,7 @@ header {
     min-height: 640px;
     display: flex;
     align-items: center;
-    background: url(/images/hero-bg.png);
+    background: url(../images/hero-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
