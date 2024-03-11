@@ -189,7 +189,7 @@ header {
 }
 
 .swiper-button-next {
-    background: url(/images/arrow-right.svg);
+    background: url(../images/arrow-right.svg);
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center;
@@ -201,7 +201,7 @@ header {
 }
 
 .swiper-button-prev {
-    background: url(/images/arrow-left.svg);
+    background: url(../images/arrow-left.svg);
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center;
